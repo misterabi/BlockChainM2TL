@@ -1,0 +1,5 @@
+Exercice 1:
+
+2.2
+
+l'importation de hashlib permet d'utiliser des fonctions de hachage cryptographique pour créer des hachages sécurisés dans le contexte de la blockchain, renforçant ainsi la sécurité et la fiabilité du système.
